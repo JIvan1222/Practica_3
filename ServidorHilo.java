@@ -2,10 +2,6 @@
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 
-/**
- *
- * @author Fernando
- */
 public class ServidorHilo extends Thread{
     
     private DataInputStream in;
